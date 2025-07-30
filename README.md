@@ -47,3 +47,12 @@ UI → ViewModel → UseCase → Repository → Remote API
 
 🔐 API
 Приложение использует публичный API от CoinPaprika. Регистрация не требуется.
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f7430c6-b151-47e9-b500-2d41c2140a0e" alt="cryptoapp_1" width="300" style="display:inline-block; margin-right:10px;" />
+  <img src="https://github.com/user-attachments/assets/426711db-3690-4124-94a2-182dc0820006" alt="cryptoapp_2" width="300" style="display:inline-block;" />
+</p>
+
+
